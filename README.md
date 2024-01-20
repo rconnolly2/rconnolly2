@@ -22,7 +22,7 @@
 
 
 <!--introducción-->
-- 🔭 I’m currently studying a **Higher certificate in Web Aplication Development in Intensive modality** which gives me the opportunity for a work placement.
+- 🔭 I’m currently studying a **Higher certificate in Web Application Development in Intensive modality** which gives me the opportunity for a work placement.
 
 - 🌱 I’m currently learning **Java, Javascript and MariaDB**
 
