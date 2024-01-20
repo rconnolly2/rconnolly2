@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 sin borde-->
-<div>
+<div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Robert Connolly</h1></summary>
   </ul>
@@ -10,13 +10,13 @@
 
 
 <div align="center">
-  <img  src="https://github.com/rconnolly2/rconnolly/blob/output/github-contribution-grid-snake.svg"/></a>
+  <img src="https://raw.githubusercontent.com/rconnolly2/rconnolly2/aa9d140238a36227bd6715138430ec2dff724c42/github-contribution-grid-snake.svg"/></a>
 </div>
 
 
-<div>
+<div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Computer technican - Programmer</h2></summary>
+    <summary><h2 style="display: inline-block">Programmer/Computer technican</h2></summary>
   </ul>
 </div>
 
@@ -63,7 +63,7 @@
 
 
 <!--h1 tecnologias-->
-<div>
+<div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
@@ -78,7 +78,9 @@
 
 <!--num visitas-->
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=rconnolly2&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=rconnolly3&label=Profile%20Views&color=0&icon=1&pretty=false" />
+</a>
 </div>
 
 <!--gif-->
