@@ -72,7 +72,7 @@
 <!--mi techstack-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,opencv,qt,flask,cpp,bash,discord,heroku,java,powershell,figma,nginx,github,html,css,js,linux,md,git,mariadb,mysql,sqlite,selenium,vscode,py,django&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,opencv,qt,flask,cpp,bash,discord,java,powershell,figma,nginx,github,html,css,js,linux,md,git,mysql,sqlite,selenium,vscode,py,django&perline=12" />
   </a>
 </p>
 
