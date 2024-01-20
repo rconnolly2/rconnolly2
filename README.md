@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"/></a>
+  <img  src="https://github.com/rconnolly2/rconnolly/blob/output/github-contribution-grid-snake.svg"/></a>
 </div>
 
 
@@ -72,7 +72,7 @@
 <!--mi techstack-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,opencv,bootstrap,flask,cpp,bash,discord,heroku,java,powershell,figma,nginx,github,html,css,js,azure,linux,md,git,mongodb,mysql,sqlite,selenium,vscode,py,ts,django&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,opencv,qt,flask,cpp,bash,discord,heroku,java,powershell,figma,nginx,github,html,css,js,azure,linux,md,git,mongodb,mysql,sqlite,selenium,vscode,py,ts,django&perline=14" />
   </a>
 </p>
 
