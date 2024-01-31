@@ -38,7 +38,6 @@
 <!--introducción-->
 
 
-
 <!--- Mis stats -->
 <p align="center">
   <!--- Mis stats (principio) -->
@@ -49,6 +48,8 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rconnolly2&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rconnolly2&theme=dark&hide_border=false" /> 
+  
+  ![](https://www.codewars.com/users/rconnolly2/badges/small)
 </td>
 
 <td width="50%" align="center">
