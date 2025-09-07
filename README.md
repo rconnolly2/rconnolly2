@@ -21,23 +21,6 @@
 </div>
 
 
-<!--introducción-->
-- 🔭 I’m currently studying a **Higher certificate in Web Application Development**
-
-- 🌱 I’m currently learning **Java, Javascript and MariaDB**
-
-- 🗣️ I can speak spanish and english fluently, I am **half spanish & half british** 🇪🇸🇬🇧
-
-- 👷 I've worked as a Computer technician at TUI Spain HQ
-
-- 📚 I have a level 5 PLC course in **Computer Systems and Networks**
-
-- 💬 Ask me about **Python, OpenCV, Django & MySQL**
-
-- 📫 Feel free to reach me out at **robertoconnolly100@gmail.com**
-<!--introducción-->
-
-
 <!--- Mis stats -->
 <p align="center">
   <!--- Mis stats (principio) -->
